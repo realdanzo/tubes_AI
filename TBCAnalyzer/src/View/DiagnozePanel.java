@@ -8,4 +8,11 @@ import javax.swing.*;
  */
 public class DiagnozePanel extends JPanel{
     
+    
+    
+    public DiagnozePanel() {
+        
+        
+    }
+    
 }
